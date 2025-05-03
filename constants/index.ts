@@ -74,14 +74,17 @@ export const Socials = [
   {
     name: "Whatsapp",
     src: "/whatsapp.png",
+    link:"https://wa.me/4374738824",
   },
   {
-    name: "Linkedln",
+    name: "LinkedIn",
     src: "/linkedln.png",
+    link:"https://www.linkedin.com/in/syeda-fatema1/",
   },
   {
-    name: "Instagram",
-    src: "instagram.svg",
+    name: "Gmail",
+    src: "/gmail1.png",
+    link: "mailto:farwafatema1@gmail.com",
   },
 ];
 export const Projects = [
